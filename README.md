@@ -1,3 +1,3 @@
 # music-bot
 
-Not my code
+Discord music bot
